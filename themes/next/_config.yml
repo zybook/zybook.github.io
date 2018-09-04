@@ -105,10 +105,10 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  E-Mail: envelope
+  E-Mail: epzybook@gmail.com
   Google: google
   Twitter: twitter
-  FB Page: facebook
+  FB Page: https://www.facebook.com/xuxiaoning
   VK Group: vk
   Skype: skype
   YouTube: youtube
@@ -168,7 +168,7 @@ sidebar:
 
   # Scroll percent label in b2t button
   scrollpercent: false
-  
+
   # Enable sidebar on narrow view
   onmobile: false
 

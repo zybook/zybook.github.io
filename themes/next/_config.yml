@@ -93,9 +93,9 @@ scheme: Mist
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/zybook/ || github
-  E-Mail: mailto::epzybook@gmail.com || envelope
-  FB Page: https://www.facebook.com/xuxiaoning || facebook
+  GitHub: https://github.com/zybook/
+  E-Mail: mailto::epzybook@gmail.com
+  FB Page: https://www.facebook.com/xuxiaoning
 
 # Social Links Icons
 # Icon Mapping:
